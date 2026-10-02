@@ -31,7 +31,7 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
+> [I have left out some details about my personal life. I have removed them because they are not important for an internship. I have focused on my skills and studies.]
 
 ---
 
